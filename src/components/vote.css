@@ -1,0 +1,20 @@
+table
+{
+ border: 1px solid black;
+ margin:5% auto;
+ text-align: center;
+ background-color:turquoise;
+}
+#h1
+{
+ position: relative;
+ left: 100px;
+}
+#h2
+{
+    border-top: 6px solid white;
+}
+button
+{
+    border:hidden
+}
